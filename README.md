@@ -1,8 +1,8 @@
 # LoRa 1
 
-<img width="960" height="540" alt="Lora1 pptx" src="https://github.com/user-attachments/assets/f3d74ff3-41ee-48fe-894c-46db0606654f" />
+<img width="500" height="300" alt="Lora1 pptx" src="https://github.com/user-attachments/assets/f3d74ff3-41ee-48fe-894c-46db0606654f" />
 
-
+# Selayang Pandang
 Belajar LoRa melalui praktek langsung - Part 1<br>
 Saya bagikan ilmu LoRa dan LoRaWan yang saya sudah geluti sejak 2021<br>
 Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
@@ -32,19 +32,19 @@ Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa
 
 # Penjelasan Praktek 
 
-<img width="960" height="540" alt="Lora1 pptx (4)" src="https://github.com/user-attachments/assets/2a1b4608-4e6f-4066-9d88-0bfe9ef21671" />
+<img width="500" height="300" alt="Lora1 pptx (4)" src="https://github.com/user-attachments/assets/2a1b4608-4e6f-4066-9d88-0bfe9ef21671" />
 
-<img width="960" height="540" alt="Lora1 pptx (5)" src="https://github.com/user-attachments/assets/dcbb4a20-d394-4341-931a-b65d431bf58c" />
+<img width="500" height="300" alt="Lora1 pptx (5)" src="https://github.com/user-attachments/assets/dcbb4a20-d394-4341-931a-b65d431bf58c" />
 
-<img width="960" height="540" alt="Lora1 pptx (6)" src="https://github.com/user-attachments/assets/54513e94-8c3b-40c6-8251-52d7da6fafed" />
+<img width="500" height="300" alt="Lora1 pptx (6)" src="https://github.com/user-attachments/assets/54513e94-8c3b-40c6-8251-52d7da6fafed" />
 
-<img width="960" height="540" alt="Lora1 pptx (7)" src="https://github.com/user-attachments/assets/10bdb9b5-eb5f-4edf-92f8-5a941317fe3d" />
+<img width="500" height="300" alt="Lora1 pptx (7)" src="https://github.com/user-attachments/assets/10bdb9b5-eb5f-4edf-92f8-5a941317fe3d" />
 
-<img width="960" height="540" alt="Lora1 pptx (8)" src="https://github.com/user-attachments/assets/e94cb718-9d4a-4c68-aa9c-c87b0913e223" />
+<img width="500" height="300" alt="Lora1 pptx (8)" src="https://github.com/user-attachments/assets/e94cb718-9d4a-4c68-aa9c-c87b0913e223" />
 
-<img width="960" height="540" alt="Lora1 pptx (9)" src="https://github.com/user-attachments/assets/9d592078-06ad-4af7-a0aa-ae8900d9ec2b" />
+<img width="500" height="300" alt="Lora1 pptx (9)" src="https://github.com/user-attachments/assets/9d592078-06ad-4af7-a0aa-ae8900d9ec2b" />
 
-<img width="960" height="540" alt="Lora1 pptx (10)" src="https://github.com/user-attachments/assets/20ed7400-bb7a-465c-8f7f-ae17d4ce449f" />
+<img width="500" height="300" alt="Lora1 pptx (10)" src="https://github.com/user-attachments/assets/20ed7400-bb7a-465c-8f7f-ae17d4ce449f" />
 
 
 # Acknowledgement
