@@ -11,7 +11,7 @@ Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
 
 Part 2 : https://github.com/ahocool-aisi555/LoRa_2<br>
 Part 3 : https://github.com/ahocool-aisi555/LoRa_IOT_GW_DIY
-
+Part 4 : https://github.com/ahocool-aisi555/LoRaWan_Antares
 
 # Bahan-Bahan
 
