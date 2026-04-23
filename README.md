@@ -9,7 +9,8 @@ Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
 4 Modul ini semoga dapat membantu siapapun yang sedang belajar komunikasi LoRa
 <br><br>
 
-Part 2 : https://github.com/ahocool-aisi555/LoRa_2
+Part 2 : https://github.com/ahocool-aisi555/LoRa_2<br>
+Part 3 : https://github.com/ahocool-aisi555/LoRa_IOT_GW_DIY
 
 
 # Bahan-Bahan
@@ -30,7 +31,8 @@ Part 2 : https://github.com/ahocool-aisi555/LoRa_2
 
 # Library
 
-Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa
+Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa <br>
+Untuk menghemat memori vs Display Oled library harap install : SSD1306Ascii
 
 # Penjelasan Praktek 
 
