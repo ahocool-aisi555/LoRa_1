@@ -19,11 +19,11 @@ Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
 3. OLED SSD1306 - 128 X 64 PIXEL<br>
 4. Breadboard atau Project Board
 
-<img width="960" height="540" alt="Lora1 pptx (1)" src="https://github.com/user-attachments/assets/dc84c7a3-67be-453f-b457-8d967398b192" />
+<img width="500" height="300" alt="Lora1 pptx (1)" src="https://github.com/user-attachments/assets/dc84c7a3-67be-453f-b457-8d967398b192" />
 
-<img width="960" height="540" alt="Lora1 pptx (2)" src="https://github.com/user-attachments/assets/e6254d41-0122-4279-acec-3bce2bab27b7" />
+<img width="500" height="300" alt="Lora1 pptx (2)" src="https://github.com/user-attachments/assets/e6254d41-0122-4279-acec-3bce2bab27b7" />
 
-<img width="960" height="540" alt="Lora1 pptx (3)" src="https://github.com/user-attachments/assets/36d8d031-9796-41a5-947a-9765c33ae93a" />
+<img width="500" height="300" alt="Lora1 pptx (3)" src="https://github.com/user-attachments/assets/36d8d031-9796-41a5-947a-9765c33ae93a" />
 
 
 # Library
