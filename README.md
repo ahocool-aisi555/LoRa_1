@@ -7,7 +7,9 @@ Belajar LoRa melalui praktek langsung - Part 1<br>
 Saya bagikan ilmu LoRa dan LoRaWan yang saya sudah geluti sejak 2021<br>
 Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
 4 Modul ini semoga dapat membantu siapapun yang sedang belajar komunikasi LoRa
+<br><br>
 
+Part 2 : https://github.com/ahocool-aisi555/LoRa_2
 
 
 # Bahan-Bahan
